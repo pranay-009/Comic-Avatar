@@ -1,3 +1,6 @@
+#start
+#import libraries
+
 import keras 
 import tensorflow as tf
 from keras.models import Model
